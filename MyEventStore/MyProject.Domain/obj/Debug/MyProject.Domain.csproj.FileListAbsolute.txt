@@ -1,0 +1,9 @@
+C:/Users/antra/Desktop/EventStore/MyEventStore/MyEventStore/MyProject.Domain/bin/Debug/MyProject.Domain.dll
+C:/Users/antra/Desktop/EventStore/MyEventStore/MyEventStore/MyProject.Domain/bin/Debug/MyProject.Domain.pdb
+C:/Users/antra/Desktop/EventStore/MyEventStore/MyEventStore/MyProject.Domain/obj/Debug/MyProject.Domain.dll
+C:/Users/antra/Desktop/EventStore/MyEventStore/MyEventStore/MyProject.Domain/obj/Debug/MyProject.Domain.pdb
+/Code/MyEventStore/MyProject.Domain/bin/Debug/MyProject.Domain.dll
+/Code/MyEventStore/MyProject.Domain/bin/Debug/MyProject.Domain.pdb
+/Code/MyEventStore/MyProject.Domain/obj/Debug/MyProject.Domain.csproj.CoreCompileInputs.cache
+/Code/MyEventStore/MyProject.Domain/obj/Debug/MyProject.Domain.dll
+/Code/MyEventStore/MyProject.Domain/obj/Debug/MyProject.Domain.pdb
